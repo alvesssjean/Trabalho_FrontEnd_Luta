@@ -1,4 +1,3 @@
-// ADICIONADO: Declara as variáveis aqui para que os listeners de reinício possam acessá-las
 let stage;
 let log;
 
